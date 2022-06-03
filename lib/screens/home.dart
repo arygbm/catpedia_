@@ -112,7 +112,7 @@ class Home extends StatelessWidget {
                           ),
                           Container(
                               child: Text(
-                            'Search Breeds',
+                            'Search',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 20,
